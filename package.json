@@ -2,7 +2,6 @@
   "name": "react-3d-model",
   "version": "0.0.1",
   "description": "React component to view 3d objects",
-  "author": "Andrea Moretti (@axyz) <axyzxp@gmail.com>",
   "main": "lib/index.js",
   "module": "es/index.js",
   "files": [
@@ -32,10 +31,10 @@
     "react": "^16.1.1",
     "react-dom": "^16.1.1"
   },
-  "author": "",
+  "author": "Andrea Moretti (@axyz) <axyzxp@gmail.com>",
   "homepage": "",
   "license": "MIT",
-  "repository": "",
+  "repository": "axyz/react-3d-model",
   "keywords": [
     "react-component"
   ]
