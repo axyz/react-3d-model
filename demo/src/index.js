@@ -7,7 +7,20 @@ class Demo extends Component {
   render() {
     return <div>
       <h1>react-3d-model Demo</h1>
-      <Example/>
+      <Example updateOnResize style={{ width: '100%', height: '480px' }}/>
+      <br / >
+      <br / >
+      <br / >
+      <br / >
+      <br / >
+      <br / >
+      <br / >
+      <br / >
+      <br / >
+      <br / >
+      <br / >
+      <br / >
+      <br / >
     </div>
   }
 }
